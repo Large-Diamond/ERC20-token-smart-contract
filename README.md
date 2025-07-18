@@ -18,6 +18,7 @@ Ethereum Mainnet for deployment
 - Symbol: ECT
 - Decimal: 18
 - Total Supply: 100 billion
+- ERC20 Size: 100M
 
 ##	Presale features
 - Presale Supply: 10 billion (10%)
